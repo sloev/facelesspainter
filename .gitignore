@@ -1,0 +1,4 @@
+face_swap/models/*
+.DS_Store
+.env
+.swp
